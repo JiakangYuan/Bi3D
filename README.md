@@ -1,8 +1,7 @@
 # Bi3D: Bi-domain Active Learning for Cross-domain 3D Object Detection
 This repo is for our CVPR2023 paper.
 
-[[paper]]() &nbsp;
-
+**Paper**: [[arxiv]]() &nbsp;
 
 **Code**: Code is avaiable in [[3DTrans]](). 
 
@@ -24,3 +23,4 @@ If you find this work useful in your research, please consider cite:
 ```
 
 ```
+If you encounter any issues or have questions, please feel free to contact us via jkyuan22@m.fudan.edu.cn.
